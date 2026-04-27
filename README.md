@@ -1,4 +1,4 @@
-Like Automoderator, just for modmail. Allows sub mods to configure rules written in YAML to enable autoresponders, automate ban appeals and more. 
+ Like Automoderator, just for modmail. Allows sub mods to configure rules written in YAML to enable autoresponders, automate ban appeals and more. 
 
 For full documentation, please see [this page](https://www.reddit.com/r/fsvapps/wiki/auto-modmail).
 
